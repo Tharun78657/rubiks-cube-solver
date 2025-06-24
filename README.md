@@ -2,6 +2,10 @@
 
 A simple browser-based Rubik's Cube simulator and basic solver using JavaScript and DOM rendering.
 
+## 🔗 Live Demo
+👉 [Try it here](https://tharun78657.github.io/rubiks-cube-solver/)
+
+
 ## Features
 - Object-oriented cube representation
 - Manual face rotation logic
@@ -13,3 +17,4 @@ A simple browser-based Rubik's Cube simulator and basic solver using JavaScript 
 1. Clone this repo or download the ZIP
 2. Open `index.html` in any browser
 3. Try refreshing the page to get more scrambled cubes that will solve 
+
