@@ -12,3 +12,4 @@ A simple browser-based Rubik's Cube simulator and basic solver using JavaScript 
 ## How to Run
 1. Clone this repo or download the ZIP
 2. Open `index.html` in any browser
+3. Try refreshing the page to get more scrambled cubes that will solve 
